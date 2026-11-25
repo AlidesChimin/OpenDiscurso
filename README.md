@@ -1,6 +1,6 @@
 # GeoConteúdo
 
-O **GeoConteúdo** é um software desktop local para análise de conteúdo em pesquisas geográficas qualitativas. Desenvolvido para substituir fluxos de trabalho feitos no LibreOffice Base, ele oferece uma interface visual rica, moderna e intuitiva em **PySide6 (Qt)** para leitura, seleção e codificação de entrevistas vinculadas a espacialidades e categorias discursivas.
+O **OpenDiscurso** é um software desktop local para análise de conteúdo em pesquisas geográficas qualitativas. Desenvolvido para substituir fluxos de trabalho feitos no LibreOffice Base, ele oferece uma interface visual rica, moderna e intuitiva em **PySide6 (Qt)** para leitura, seleção e codificação de entrevistas vinculadas a espacialidades e categorias discursivas.
 
 ---
 
